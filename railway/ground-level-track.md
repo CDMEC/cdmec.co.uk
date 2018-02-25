@@ -28,7 +28,7 @@ The club owns several locomotives which are often seen running at the club on th
 <div class="row">
   <div class="col-xs-12 col-sm-3">
     <div class="thumbnail">
-      <img src="{% asset_path locos/schmetterling.jpg %}" alt="...">
+      <img src= {{ "/assets/style.css" | https://chingford-model-engineering.com/assets/locos/schmetterling.jpg%"}} alt="...">
       <div class="caption">
         <h5>Schmetterling</h5>
         <p>7 &frac14;" Gauge 0-6-0 Tank Engine. Club project completed in early 2005<!-- and can be seen passenger hauling on our ground level track. The name "Schmetterling", is German for "Butterfly", which is in keeping with the clubs "****fly", naming.--></p>
